@@ -1,0 +1,14 @@
+{
+  "emergency_contact": [
+    {
+      "id": 0,
+      "name": "Primary emergency service number",
+      "number":["000"]
+    },
+    {
+      "id": 1,
+      "name": "Text-based emergency service number for deaf person",
+      "number": ["106"]
+    }
+  ]
+}
